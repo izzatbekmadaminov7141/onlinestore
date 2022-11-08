@@ -1,3 +1,10 @@
 h1{
     color: yellow;
+    background-color: green;
+}
+body{
+    background-color:black;
+    color:#fff;
+    text-align: center;
+    padding: 30px;
 }
